@@ -1,3 +1,4 @@
+# Steps
 ## Step 1: Setting up the Environment
 
 1.1 Install Python on the Laptop.
