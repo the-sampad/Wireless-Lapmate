@@ -1,4 +1,4 @@
-Step 1: Setting up the Environment
+## Step 1: Setting up the Environment
 
 1.1 Install Python on the Laptop.
 
@@ -6,13 +6,13 @@ Step 1: Setting up the Environment
 
 1.3 Install the undetected_chromedriver package.
 
-Step 2: Create a SimpleNote account
+## Step 2: Create a SimpleNote account
 
 2.1 Go to https://app.simplenote.com/ and create a new account.
 
 2.2 Create a new note with instructions on what actions to take on the laptop.
 
-Step 3: Coding the Wireless LapMate
+## Step 3: Coding the Wireless LapMate
 
 3.1 Import the required packages and set the login credentials.
 
@@ -32,7 +32,7 @@ Step 3: Coding the Wireless LapMate
 
 3.9 Clear the note area after each instruction is executed.
 
-Step 4: Testing the Wireless LapMate
+## Step 4: Testing the Wireless LapMate
 
 4.1 Run the code and confirm that it successfully logs in to the SimpleNote account.
 
@@ -44,7 +44,7 @@ Step 4: Testing the Wireless LapMate
 
 4.5 Check that the code successfully shuts down the PC after a 10-second delay.
 
-Step 5: Deploying the Wireless LapMate
+## Step 5: Deploying the Wireless LapMate
 
 5.1 Package the code into a standalone executable using PyInstaller.
 
